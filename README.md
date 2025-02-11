@@ -1,15 +1,16 @@
 ## About Me
 
-I have over 10 years of experience in web development, specializing in React, Node.js, and AWS and I'm proficient in both frontend and backend development, with a proven track record of delivering high-quality software solutions.
+With over 10 years of experience in full-stack JavaScript development, I specialize in building high-performance web applications using the MERN (MongoDB, Express, React, Node.js) and MEAN (MongoDB, Express, Angular, Node.js) stacks. I have developed several high-traffic websites and complex enterprise solutions.
 
-I'm also skilled in AWS cloud services and passionate about staying updated with industry trends and continuously improving my skills to deliver innovative solutions.
+My skills also include database management and proficiency in version control with Git. I am dedicated to delivering high-quality, maintainable code and collaborating closely with clients to achieve their project goals. Let's connect and discuss how I can help you succeed with your project!
 
 ## Skills
 
-- Frontend: React, Next.js, HTML5, CSS3, JavaScript (ES6+)
-- Backend: Node.js, Express.js, RESTful APIs, GraphQL
-- Databases: MongoDB, PostgreSQL, MySQL, DynamoDB
-- AWS Services (EC2, S3, Lambda, API Gateway, DynamoDB, etc.)
-- DevOps: Docker, Kubernetes, CI/CD pipelines
-- Testing: Jest, Mocha, Chai, Enzyme
-- Tools & Platforms: Git, Jira, Jenkins, Travis CI, CircleCI
+- React, Next.js, Angular, Node.js, Express
+- HTML, CSS, JavaScript, TypeScript, ES6+
+- Bootstrap, Material UI, Tailwind CSS
+- MySQL, PostgreSQL, MongoDB, Redis
+- RESTful API, GraphQL
+- AWS, GCP, Firebase, Vercel
+- Docker, Kubernetes, CI/CD
+- Git, Jira, Trello, Asana
